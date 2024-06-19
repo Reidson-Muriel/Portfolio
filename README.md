@@ -12,7 +12,7 @@
 
 <br>
 
-<p align="center" font-size="32px">
+<p align="center" font-size="64px">
     Portfolio
 </p>
 
